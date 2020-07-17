@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1#Titulodosite{
+    text-align: center;
+    text-decoration: none;
+    font-size: px;
+}
+
+header#cabecalho img#Perfil{
+    
+   position: absolute;
+   left: 42%;
+   border-style: solid;
+   border-color: white;
+   border-radius: 200px;
+}
+
