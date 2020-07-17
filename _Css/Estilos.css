@@ -27,7 +27,7 @@ figure.Legenda img#Perfil{
     border-radius: 200px;      
 }
 figure.Legenda figcaption span{
-    
+    color: white;
     text-align: center;
     display: block;
     font-size: 30px;
