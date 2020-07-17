@@ -1,17 +1,32 @@
 @charset "UTF-8";
 
+
+body{
+    background-color: rgb(154, 217, 234);
+}
+
 h1#Titulodosite{
     text-align: center;
     text-decoration: none;
     font-size: px;
 }
 
-header#cabecalho img#Perfil{
-    
-   position: absolute;
-   left: 42%;
-   border-style: solid;
-   border-color: white;
-   border-radius: 200px;
+header#cabecalho img#Perfil{  
+    /*Para derfini a Largura*/
+    width: 200px;
+    /* Para definir a Altura */
+    height: 200px;
+    /**/
+    position: absolute;
+    /**/
+    left: 50%;
+    /**/
+    margin-left: -200px;
+    /**/
+    border: 8px solid;
+    /**/
+    border-color: white;
+    /**/
+    border-radius: 200px;
 }
 
