@@ -2,31 +2,25 @@
 
 
 body{
-    background-color: rgb(154, 217, 234);
+    background-color:rgb(81, 135, 137);
 }
 
 h1#Titulodosite{
     text-align: center;
-    text-decoration: none;
-    font-size: px;
+    color: white;
+    font-size: 50px;
 }
-
-header#cabecalho img#Perfil{  
+figure.Legenda img#Perfil{
+    
     /*Para derfini a Largura*/
     width: 200px;
-    /* Para definir a Altura */
+    /*Para definir a Altura*/ 
     height: 200px;
-    /**/
-    position: absolute;
-    /**/
-    left: 50%;
-    /**/
-    margin-left: -200px;
-    /**/
-    border: 8px solid;
-    /**/
-    border-color: white;
-    /**/
+    /*Para Criar a borda*/
+    border: 6px solid white;
+    /*Para arrendodar a borda*/
     border-radius: 200px;
+    
 }
+
 
