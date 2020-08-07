@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<quiz>
+		
+		<Pergunta id="1">1-	A historia ferroviaria do Rio Grande do Norte tem início em que ano ?</Pergunta>
+		<alternativa-a id="1">A)No ano de 1804</alternativa-a>
+		<alternativa-b id="1">B)No ano de 1870</alternativa-b>
+		<alternativa-c id="1">C)No ano de 1875</alternativa-c>
+		<alternativa-d id="1">D)No ano de 1882</alternativa-d>
+		<alternativaCerta id="1">2</alternativaCerta>
+
+
+
+		<Pergunta id="2">2-	Em qual ano foi inaugurada a estacao ferroviaria de Ceara-Mirim?</Pergunta>
+		<alternativa-a id="2">A)1870</alternativa-a>
+		<alternativa-b id="2">B)1880</alternativa-b>
+		<alternativa-c id="2">C)1906</alternativa-c>
+		<alternativa-d id="2">D)1956</alternativa-d>
+		<alternativaCerta id="2">3</alternativaCerta>
+
+
+		<Pergunta id="3">3-	Qual foi o primeiro nome da estacao ferroviaria de Ceara-Mirim?</Pergunta>
+		<alternativa-a id="3">A)Estrada de Ferro Central do Rio Grande do Norte</alternativa-a>
+		<alternativa-b id="3">B)Estrada de Ferro Sampaio Correia</alternativa-b>
+		<alternativa-c id="3">C)Estação Ferroviária Central do Rio Grande do Norte</alternativa-c>
+		<alternativa-d id="3">D)Estação Ferroviária Sampaio Correia </alternativa-d>
+		<alternativaCerta id="3">1</alternativaCerta>
+
+
+
+		<Pergunta id="4">4-	Qual o nome atual da estação ferroviaria de Ceara-Mirim?</Pergunta>
+		<alternativa-a id="4">A)Estrada de Ferro Central do Rio Grande do Norte</alternativa-a>
+		<alternativa-b id="4">B)Estrada de Ferro Sampaio Correia</alternativa-b>
+		<alternativa-c id="4">C)Estação Ferroviária Central do Rio Grande do Norte</alternativa-c>
+		<alternativa-d id="4">D)Estação Ferroviária Sampaio Correia </alternativa-d>
+		<alternativaCerta id="4">2</alternativaCerta>
+
+
+
+		<Pergunta id="5">5-	O que a locomotiva a vapor da E.F.C.R.N. transportava em seus vagoes?</Pergunta>
+		<alternativa-a id="5">A) Feijão</alternativa-a>
+		<alternativa-b id="5">B) Farinha</alternativa-b>
+		<alternativa-c id="5">C)Arroz</alternativa-c>
+		<alternativa-d id="5">D)Cana-de-acucar</alternativa-d>
+		<alternativaCerta id="5">4</alternativaCerta>
+</quiz>

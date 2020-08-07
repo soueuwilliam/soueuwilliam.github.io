@@ -33,8 +33,9 @@ figure.Legenda figcaption span{
     font-size: 30px;
 }
 
-nav#Menu{
+nav#Menu ul{
+    display: block;
+}
+nav#Menu li{
     
 }
-
-
